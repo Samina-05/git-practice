@@ -1,1 +1,4 @@
-print("HI SAMINA")
+"""This module prints a greeting."""
+
+
+print("Hello")
